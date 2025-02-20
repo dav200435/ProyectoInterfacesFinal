@@ -45,7 +45,7 @@ Este manual proporciona una guía paso a paso para utilizar la aplicación de ge
   - Si el registro es exitoso, se mostrará un mensaje de éxito.  
   - Si hay errores, se mostrará un mensaje de error.  
 
-![Registro de Usuario](registro_usuario.png)
+![Registro de Usuario](imagenes/registro_usuario.png)
 
 ---
 
@@ -61,7 +61,7 @@ Este manual proporciona una guía paso a paso para utilizar la aplicación de ge
   - Si el inicio de sesión es exitoso, se abrirá la ventana principal (`MainWindow`).  
   - Si hay errores, se mostrará un mensaje de error.  
 
-![Pantalla de Login](login_form.png)
+![Pantalla de Login](imagenes/login_form.png)
 
 ---
 
@@ -73,19 +73,19 @@ Después de un inicio de sesión exitoso, la aplicación mostrará la ventana pr
 - Haz clic en el botón "Products" para cargar y mostrar la lista de productos.  
 - La tabla muestra: **ID, Nombre, Categoría, Precio y Stock**.  
 
-![Gestión de Productos](gestion_productos.png)
+![Gestión de Productos](imagenes/gestion_productos.png)
 
 #### **Gestión de Empleados**  
 - Haz clic en el botón "Employs" para cargar y mostrar la lista de empleados.  
 - La tabla muestra: **ID, Nombre, Cargo y Fecha de Contratación**.  
 
-![Gestión de Empleados](gestion_empleados.png)
+![Gestión de Empleados](imagenes/gestion_empleados.png)
 
 #### **Gestión de Ventas**  
 - Haz clic en el botón "Sells" para cargar y mostrar la lista de ventas.  
 - La tabla muestra: **ID, ID Empleado, ID Producto, Cantidad, Fecha de Venta y Total**.  
 
-![Gestión de Ventas](gestion_ventas.png)
+![Gestión de Ventas](imagenes/gestion_ventas.png)
 
 ---
 
