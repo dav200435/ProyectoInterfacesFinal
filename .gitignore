@@ -1,0 +1,37 @@
+# Archivos de Eclipse
+.settings/
+.project
+.classpath
+
+# Archivos de compilación
+bin/
+target/
+*.class
+
+# Archivos de dependencias de Maven
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de logs y temporales
+*.log
+*.tmp
+hs_err_pid*
+
+# Archivos de salida (PDF, Excel)
+*.pdf
+*.xls
+*.xlsx
+*.csv
+
+# Configuración de IDEs adicionales (opcional)
+.idea/
+.vscode/
+/.metadata/
